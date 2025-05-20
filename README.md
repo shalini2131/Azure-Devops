@@ -5,7 +5,7 @@ This project demonstrates how to deploy a simple Flask application to Azure Cont
 ## Project Structure
 
 ```
-flask-app-aci/
+Azure-Devops/
 ├── app.py                # Flask application
 ├── requirements.txt      # Python dependencies
 ├── Dockerfile            # Container definition
